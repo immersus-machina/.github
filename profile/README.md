@@ -1,5 +1,7 @@
 # Immersus Machina
 
+*Through patterns we thrive.*
+
 Independent software studio with a mathematical foundation. We specialize in complex problem-solving — the kind where nobody can quite explain what's wrong, only that it isn't working.
 
 ## What we do
